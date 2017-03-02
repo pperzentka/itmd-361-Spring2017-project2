@@ -1,0 +1,43 @@
+html{
+	 font-family : verdana, cursive , sans-serif;
+         font: inherit;
+	 margin:0;
+	 padding:0;
+	 border:0;
+	 vertical-align:baseline
+}
+
+div#container{
+    width:1200px;
+    height:800px;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: auto;
+   background-color: skyblue
+}
+header{
+    margin: 0;
+    width: 100%
+    padding: 00px;
+    height: 80px;
+   // background-color: antiquewhite;
+}
+
+h2#title{
+    text-align: center;
+    width: 40%
+    
+}
+
+nav{
+    padding-top:20px;
+    height: 80px;
+
+}
+
+
+footer{
+    padding:20px;
+    height: 100px;
+
+}
