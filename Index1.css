@@ -4,11 +4,11 @@ html{
 	 margin:0;
 	 padding:0;
 	 border:0;
-	 vertical-align:baseline
+	 vertical-align:baseline;
 }
 
 div#container{
-    width:1200px;
+    width:1000px;
     height:800px;
     margin-left:auto;
     margin-right: auto;
@@ -17,32 +17,33 @@ div#container{
 }
 header{
     margin: 0;
-    width: 100%
+    width: 100%;
     padding: 00px;
-    height: 160px;
+    height: 60px;
     background-color: antiquewhite;
 }
 
 h2#title{
     text-align: center;
-    width: 40%
+    width: 90%;
     background-color:darkmagenta;
     
 }
 img{
     margin:00px;
-    width: 10%
-    float: left;
+    float: right;
     background-color:darkred;
 }
 nav{
-    height: 80px;
+    height: 60px;
+    padding-top:30px;
 
 }
 main{
-    
-    width:600px
-    height:700px;
+    box-sizing: border-box;
+    padding-left:20px;
+    width:80%;
+    height:auto;
     background-color: cadetblue;
     float:right;
 }
@@ -65,9 +66,9 @@ section#Audio{
 }
 aside{
     width: 20%;
-    height:500px;
+    height:auto;
     float:left;
-    background-color:olive
+    background-color:olive;
 }
 footer{
     padding:400px;
