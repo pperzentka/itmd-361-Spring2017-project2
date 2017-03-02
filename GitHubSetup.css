@@ -9,7 +9,11 @@ html{
 
 div#container{
     width:1200px;
+<<<<<<< HEAD
     height:1000px;
+=======
+    height:900px;
+>>>>>>> origin/master
     margin-left:auto;
     margin-right: auto;
     margin-top: auto;
